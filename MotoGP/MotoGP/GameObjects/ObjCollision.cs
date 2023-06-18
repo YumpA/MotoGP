@@ -21,8 +21,8 @@ namespace MotoGP.GameObjects
             return new Rectangle(
                 (int) (Position.X - _origin.X),
                 (int) (Position.Y - _origin.Y),
-                _texture.Width/4,
-                _texture.Height/4);
+                _texture.Width,
+                _texture.Height);
         }
 
         public ObjCollision(Texture2D texture) : base(texture)

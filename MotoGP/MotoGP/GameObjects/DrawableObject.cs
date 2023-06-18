@@ -26,7 +26,7 @@ namespace MotoGP.GameObjects
         {
             _texture = texture;
             _position = new Vector2(0, 0);
-            _origin = new Vector2(texture.Width, texture.Height);
+            _origin = new Vector2(texture.Width/40, texture.Height/40);
         }
 
         public abstract void Draw(SpriteBatch spriteBatch);

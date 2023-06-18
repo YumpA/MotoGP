@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programming\\C#\\MotoGP\\MotoGP\\MotoGP.csproj": {}
+    "C:\\Users\\Саша\\Source\\Repos\\YumpA\\MotoGP\\MotoGP\\MotoGP\\MotoGP.csproj": {}
   },
   "projects": {
-    "C:\\Programming\\C#\\MotoGP\\MotoGP\\MotoGP.csproj": {
+    "C:\\Users\\Саша\\Source\\Repos\\YumpA\\MotoGP\\MotoGP\\MotoGP\\MotoGP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\C#\\MotoGP\\MotoGP\\MotoGP.csproj",
+        "projectUniqueName": "C:\\Users\\Саша\\Source\\Repos\\YumpA\\MotoGP\\MotoGP\\MotoGP\\MotoGP.csproj",
         "projectName": "MotoGP",
-        "projectPath": "C:\\Programming\\C#\\MotoGP\\MotoGP\\MotoGP.csproj",
+        "projectPath": "C:\\Users\\Саша\\Source\\Repos\\YumpA\\MotoGP\\MotoGP\\MotoGP\\MotoGP.csproj",
         "packagesPath": "C:\\Users\\Саша\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\C#\\MotoGP\\MotoGP\\obj\\",
+        "outputPath": "C:\\Users\\Саша\\Source\\Repos\\YumpA\\MotoGP\\MotoGP\\MotoGP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
